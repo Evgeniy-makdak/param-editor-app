@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to bottom, #ff9900, #ffcc00);
+    height: 100vh;
+}
+
+.param-input {
+  margin-bottom: 10px;
+  color: #ffcc00;
+  margin-top: 16px;
+}
+
+.label {
+  margin-top: 16px;
+}
